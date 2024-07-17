@@ -14,9 +14,9 @@ This OpenCV project is an intelligent security solution that uses computer visio
 * Place your trained face recognizer model as face_recognizer_model.yml in the working directory.
 
 ## Use Cases:
-Home Security: Monitor home entrances and alert homeowners of potential intruders.
-Workplace Security: Ensure only authorized personnel access restricted areas.
-Event Security: Monitor large gatherings for unrecognized individuals.
+* Home Security: Monitor home entrances and alert homeowners of potential intruders.
+* Workplace Security: Ensure only authorized personnel access restricted areas.
+* Event Security: Monitor large gatherings for unrecognized individuals.
 
 ### Notes:
 Ensure you replace placeholder email credentials and server settings with actual values.
