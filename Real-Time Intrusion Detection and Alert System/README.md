@@ -10,7 +10,7 @@ This OpenCV project is an intelligent security solution that uses computer visio
 * Image Saving: Captures and saves the image of any unknown person detected.
 
 ## Download pre-trained models:
-* Ensure you have the haarcascade_frontalface_default.xml file in the working directory.
+* Ensure you have the haarcascade_frontalface_default.xml and haarcascade_eye.xml file in the working directory.
 * Place your trained face recognizer model as face_recognizer_model.yml in the working directory.
 
 ### Notes:
